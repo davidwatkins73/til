@@ -1,6 +1,7 @@
 ---
 title: "Underscores in SQL Like statements"
 date: 2023-08-18
+tags: sql
 ---
 
 We often use undescores when creating public indentifiers in our application.
