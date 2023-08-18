@@ -1,8 +1,6 @@
 ---
-title: Welcome to my TIL blog
+title: Today I Learned
 ---
-
-# Daves TIL
 
 Where I discover things that everyone already knows.
 
